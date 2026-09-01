@@ -1,0 +1,9 @@
+rollNumber,studentId,fullName,department,semester,division,phone,email,attendancePercentage,cgpa,credits,skills,projects,placementStatus,scholarshipStatus
+105,S-2026-105,Aarohi Mehta,Computer Science,5,A,90000105,aarohi.mehta@college.edu,95.0,9.5,110,Java  Cloud  DSA,Record Manager  Chatbot,Ready,Eligible
+101,S-2026-101,Pranit Sharma,Computer Science,5,A,90000101,pranit.sharma@college.edu,92.0,9.1,110,Java  JavaFX  DSA,Placement Portal  Smart Notes,Ready,Eligible
+106,S-2026-106,Nisha Patil,Information Technology,3,B,90000106,nisha.patil@college.edu,89.0,8.8,66,React  Java  Testing,Campus Connect,Ready,Eligible
+102,S-2026-102,Prakash Iyer,Computer Science,5,A,90000102,prakash.iyer@college.edu,86.0,8.4,110,Python  ML  SQL,Attendance AI,Ready,Eligible
+108,S-2026-108,Meera Rao,Electronics,7,C,90000108,meera.rao@college.edu,82.0,8.1,154,VLSI  Java  IoT,Health Band,Ready,Eligible
+103,S-2026-103,Prasad Kulkarni,Electronics,3,B,90000103,prasad.kulkarni@college.edu,73.0,7.2,66,IoT  C  PCB,Smart Meter,Developing,Not Eligible
+104,S-2026-104,Pranav Desai,Mechanical,7,C,90000104,pranav.desai@college.edu,64.0,6.4,154,CAD  Robotics,Line Follower,Not Ready,Not Eligible
+107,S-2026-107,Kabir Khan,Civil,1,A,90000107,kabir.khan@college.edu,58.0,5.7,22,Surveying  AutoCAD,Bridge Model,Not Ready,Not Eligible

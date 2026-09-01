@@ -1,0 +1,20 @@
+SMART STUDENT RECORDS - TRANSCRIPT
+
+Roll Number: 1286
+Student ID: S-2026-1286
+Name: Saanvi Shetty
+Department: Data Science
+Semester: 6
+Attendance: 88.63%
+CGPA: 9.95
+Credits: 132
+Skills: Cloud, Linux, Docker, APIs
+Projects: Smart Meter, Health Band
+Achievements: Open Source Contributor, Mentor
+Placement Score: 100.00
+Placement: Ready
+Scholarship Score: 100.00
+Scholarship: Eligible
+Risk Level: Excellent
+Guardian: Guardian Saanvi (800001286)
+Remarks: Excellent academic profile with Data Science specialization.
